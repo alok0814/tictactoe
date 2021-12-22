@@ -1,0 +1,12 @@
+
+How to play
+・ Play with Player1 and Player2.
+・ First, select the size of the object.
+   ( 1: Small, 2: Medium, 3: Large )
+・ Next, select the location to place the object in 3x3 squares from 1 to 9.
+・ Repeat this process alternately.
+・ The winner is the first player to arrange the pieces vertically, horizontally, or diagonally.
+
+Warning
+・You can place a large object on top of a small object, but you cannot place a small object on top of a large object.
+・ Repeated hits will lead to erroneous operation.
